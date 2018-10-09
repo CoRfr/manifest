@@ -38,7 +38,7 @@
     <project path="legato/3rdParty/Lwm2mCore/3rdParty/tinyhttp" name="legato-3rdParty-tinyhttp" dest-branch="master-swi" groups="default,legato,lwm2m" revision="refs/heads/master-swi" remote="legato-github"/>
 
     <!-- AirVantage LWM2M Client -->
-    <project path="legato/apps/platformServices/airVantageConnector" name="legato-Service-AirVantageConnector" dest-branch="master" groups="default,legato,lwm2m" revision="refs/heads/master" remote="legato-github"/>
+    <project path="legato/apps/platformServices/airVantageConnector" name="legato-Service-AirVantageConnector" dest-branch="master" groups="default,legato,lwm2m" revision="refs/heads/master" remote="corfr"/>
 
     <!-- DataHub Service -->
     <project path="legato/apps/sample/dataHub" name="legato-Service-DataHub" dest-branch="master" groups="default,legato" revision="refs/heads/master" remote="legato-github"/>
